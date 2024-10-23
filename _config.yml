@@ -12,9 +12,9 @@ title                    : "Qamar Majeed"
 title_separator          : "-"
 name                     : &name "Qamar Majeed"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://qamarmajeed.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "qamarmajeed/qamarmajeed.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Qamar Majeed"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "As a cybersecurity expert skilled in malware analysis, reverse engineering, and vulnerability assessment, I am dedicated to fortifying organizations against persistent cyber threats. With expertise in web application security ,SIEM and malware analysis, I swiftly analyze security logs, investigate incidents, and implement robust security controls to safeguard sensitive data. Let's join forces to create an impenetrable defense against cyber risks and protect your organization's digital assets.﻿"
   location         : "Islamabad, Pakistan"
   employer         : "Common Criteria Pakistan"
   uri              : # URL
