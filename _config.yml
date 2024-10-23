@@ -12,9 +12,9 @@ title                    : "Qamar Majeed"
 title_separator          : "-"
 name                     : &name "Qamar Majeed"
 description              : &description "personal description"
-url                      : "https://qamarmajeed.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://qamarmajeed.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "qamarmajeed/qamarmajeed.github.io"
+repository               : "qamarmajeed/qamarmajeed"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
